@@ -5,6 +5,7 @@
 body {
   background-color: #F5F4F0;
   border: #d9d9d9;
+  margin: 80px 80px 88px;
 }
 
 h1 {
@@ -25,4 +26,21 @@ h3 {
   color: #e1624f;
   font-size: 16px;
   font-weight: bold;
+}
+.header { 
+  margin: 88px 80px 40;
+}
+.h1s {
+  margin-top: 8px;
+}
+img {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.pontos-turismo {
+  margin-bottom: 48px;
+}
+footer {
+  margin: 68px;
+  text-align: center;
 }
